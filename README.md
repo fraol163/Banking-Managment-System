@@ -180,7 +180,7 @@ After installation, verify the system is working correctly:
 
 ### Complete Directory Structure
 ```
-banking-management-system/
+Banking-Management-System/
 ├── src/main/java/com/bankingsystem/           # Source code root
 │   ├── config/                                # Configuration management
 │   │   ├── AppConfig.java                     # Application configuration settings
