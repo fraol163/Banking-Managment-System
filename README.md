@@ -11,7 +11,6 @@ A comprehensive Java-based banking management system with advanced features incl
 ## 📋 Table of Contents
 
 - [🎯 Project Overview](#-project-overview)
-- [📸 Screenshots](#-screenshots)
 - [🚀 Features](#-features)
 - [📁 Project Structure](#-project-structure)
 - [🛠 System Requirements](#-system-requirements)
