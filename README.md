@@ -143,7 +143,7 @@ java -cp target\classes com.bankingsystem.main.BankingSystemApp
 ```bash
 # Clone the repository
 git clone [repository-url]
-cd banking-management-system
+cd Banking-Management-System
 
 # Create target directory
 mkdir -p target/classes
