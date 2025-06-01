@@ -119,7 +119,7 @@ run-with-sample-data.bat
 ### Manual Installation (Windows)
 ```batch
 # Navigate to project directory
-cd banking-management-system
+cd Banking-Management-System
 
 # Create target directory if it doesn't exist
 if not exist target\classes mkdir target\classes
